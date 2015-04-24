@@ -1,0 +1,29 @@
+_prefs: 
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -102.5684
+  - 55.5783
+  - 4
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 6
+minzoom: 4
+name: NG 40 Million Style
+source: "mapbox:///jelder.e56f7f7b,mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+  - ngs.mss
+  - labels.mss
+  - mapbox.mss
+template: ''
